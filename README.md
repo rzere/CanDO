@@ -1,2 +1,2 @@
-# CanDO-
-CanDO! Can Damage Detection on the Production Line using CV
+# CanDO!
+Can Damage Detection on the Production Line using CV
